@@ -700,16 +700,16 @@ h3 > .fa {
  * Contact
 /* ---------------------------------------------- */
 
-#contact {
+#contact1 {
 	background: #534741;
 	color: #FFF;
 }
 
-#contact h1, #contact h2, #contact h3, #contact h4, #contact h5, #contact h6 {
+#contact1 h1, #contact1 h2, #contact1 h3, #contact1 h4, #contact1 h5, #contact1 h6 {
 	color: #FFF;
 }
 
-#contact .form-control {
+#contact1 .form-control {
 	border: 0;
 }
 
