@@ -1,1 +1,1 @@
-# IMA-New
+http://mmartinec.github.io/IMA-New/Site/Slideshow/index.html
