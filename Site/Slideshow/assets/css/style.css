@@ -507,7 +507,7 @@ h3 > .fa {
  * Profile-contact
 /* ---------------------------------------------- */
 
-#profile-contact {
+#profile-contact1 {
 	box-shadow: 0 0 4px rgba(0, 0, 0, .2);
 	padding: 20px 0;
 }
@@ -777,7 +777,7 @@ h3 > .fa {
 		text-align: center;
 	}
 
-	#profile-contact .profile-item {
+	#profile-contact1 .profile-item {
 		margin: 0 0 20px;
 	}
 
